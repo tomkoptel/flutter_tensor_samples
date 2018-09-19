@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/custom_paint_countdown/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/custom_paint_countdown/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_calculator_layout/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_calculator_layout/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_chaining_animations/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_chaining_animations/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_chat_app/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_chat_app/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_different_styles/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_different_styles/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_drag_drop/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_drag_drop/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_dynamic_lists/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_dynamic_lists/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_global_keys/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_global_keys/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_gradient/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_gradient/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_grids_tabs_steppers/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_grids_tabs_steppers/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_inherited_widget_gestures/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_inherited_widget_gestures/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_intro_animations/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_intro_animations/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_multipage/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_multipage/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_physics_anim/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_physics_anim/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_shared_preferences/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_shared_preferences/build" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_temp_converter/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/flutter_temp_converter/build" />
+      <excludeFolder url="file://$MODULE_DIR$/read_write_data_files/.pub" />
+      <excludeFolder url="file://$MODULE_DIR$/read_write_data_files/build" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
