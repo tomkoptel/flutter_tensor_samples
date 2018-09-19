@@ -1,6 +1,9 @@
 import 'package:flutter/material.dart';
 import 'dart:math' as math;
 
+/**
+ * Building a Countdown Timer with a Custom Painter and Animations in Dart's Flutter Framework - https://youtu.be/tRe8teyf9Nk
+ */
 void main() => runApp(MaterialApp(
       home: MyApp(),
       title: 'Custom Countdown',

@@ -1,5 +1,9 @@
 import 'package:flutter/material.dart';
 
+/**
+ * Using Gradients, Fractional Offsets, Page Views and Other Widgets in Dart's Flutter Framework - https://youtu.be/vgcv4Fn9ERo
+ */
+
 void main() => runApp(MaterialApp(
       title: 'Gallery Demo',
       theme: ThemeData(primarySwatch: Colors.deepOrange),

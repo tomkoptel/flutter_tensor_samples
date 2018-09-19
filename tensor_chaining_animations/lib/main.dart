@@ -1,6 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/scheduler.dart';
 
+/**
+ * Composing Animations and Chaining Animations in Dart's Flutter Framework - https://youtu.be/JQxEEnA3ny8
+ */
 void main() => runApp(MaterialApp(
       home: MyApp(),
       title: 'Chained Animation',

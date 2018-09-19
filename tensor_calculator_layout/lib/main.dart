@@ -1,5 +1,9 @@
 import 'package:flutter/material.dart';
 
+/**
+ * Building a Calculator Layout using Dart's Flutter Framework - https://youtu.be/MvxyazbTkQg
+ * Finishing our Calculator Application with Dart's Flutter Framework - https://youtu.be/jx9-RlMs350
+ */
 void main() => runApp(MaterialApp(
       title: "Calc Layout",
       theme: ThemeData(primarySwatch: Colors.blueGrey),

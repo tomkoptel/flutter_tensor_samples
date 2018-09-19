@@ -1,6 +1,10 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/animation.dart';
 
+/**
+ * The Basics of Animation with Dart's Flutter Framework - https://youtu.be/5urRyqOwTuo
+ */
+
 void main() => runApp(MaterialApp(
       home: AnimSample(),
     ));

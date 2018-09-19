@@ -3,6 +3,10 @@ import 'dart:convert';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 
+/**
+ * Building Dynamic Lists with Streams in Dart's Flutter Framework - https://youtu.be/hvvYA1N-tEc
+ */
+
 void main() {
   return runApp(MaterialApp(
     title: 'Photo Streamer',

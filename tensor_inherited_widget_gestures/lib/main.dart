@@ -1,6 +1,9 @@
 import 'dart:math';
-
 import 'package:flutter/material.dart';
+
+/**
+ * Using Inherited Widgets and Gesture Detectors in Dart's Flutter Framework - https://youtu.be/4I68ilX0Y24
+ */
 
 void main() => runApp(MaterialApp(
       title: 'Random Squares',

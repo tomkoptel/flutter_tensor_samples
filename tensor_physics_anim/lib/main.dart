@@ -2,6 +2,10 @@ import 'package:flutter/material.dart';
 import 'package:flutter/physics.dart';
 import 'dart:math';
 
+/**
+ * Advanced Physics Based Animations in Dart's Flutter Framework - https://youtu.be/LHZ0KSvTTqQ
+ */
+
 const BOX_COLOR = Colors.cyan;
 
 void main() => runApp(MaterialApp(

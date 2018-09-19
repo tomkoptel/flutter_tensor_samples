@@ -2,6 +2,10 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/rendering.dart';
 
+/**
+ * Dart Flutter Chat App Tutorial - https://youtu.be/WwhyaqNtNQY
+ */
+
 final ThemeData iOSTheme = ThemeData(
   primarySwatch: Colors.red,
   primaryColor: Colors.grey[400],
